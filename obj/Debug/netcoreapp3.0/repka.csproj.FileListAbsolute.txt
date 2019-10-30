@@ -1,0 +1,11 @@
+C:\Users\a_kli\repka\obj\Debug\netcoreapp3.0\repka.csprojAssemblyReference.cache
+C:\Users\a_kli\repka\obj\Debug\netcoreapp3.0\repka.AssemblyInfoInputs.cache
+C:\Users\a_kli\repka\obj\Debug\netcoreapp3.0\repka.AssemblyInfo.cs
+C:\Users\a_kli\repka\bin\Debug\netcoreapp3.0\repka.exe
+C:\Users\a_kli\repka\bin\Debug\netcoreapp3.0\repka.deps.json
+C:\Users\a_kli\repka\bin\Debug\netcoreapp3.0\repka.runtimeconfig.json
+C:\Users\a_kli\repka\bin\Debug\netcoreapp3.0\repka.runtimeconfig.dev.json
+C:\Users\a_kli\repka\bin\Debug\netcoreapp3.0\repka.dll
+C:\Users\a_kli\repka\bin\Debug\netcoreapp3.0\repka.pdb
+C:\Users\a_kli\repka\obj\Debug\netcoreapp3.0\repka.dll
+C:\Users\a_kli\repka\obj\Debug\netcoreapp3.0\repka.pdb
